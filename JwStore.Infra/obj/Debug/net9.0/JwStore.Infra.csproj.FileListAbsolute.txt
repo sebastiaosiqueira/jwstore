@@ -1,0 +1,15 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\bin\Debug\net9.0\JwStore.Infra.deps.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\bin\Debug\net9.0\JwStore.Infra.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\bin\Debug\net9.0\JwStore.Infra.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\bin\Debug\net9.0\JwStore.Core.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\bin\Debug\net9.0\JwStore.Core.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.csproj.AssemblyReference.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore..2CE921DA.Up2Date
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\refint\JwStore.Infra.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\JwStore.Infra.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.infra\obj\Debug\net9.0\ref\JwStore.Infra.dll

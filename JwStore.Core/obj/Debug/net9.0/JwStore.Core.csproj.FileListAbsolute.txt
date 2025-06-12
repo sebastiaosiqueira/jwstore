@@ -1,0 +1,11 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\JwStore.Core\bin\Debug\net9.0\JwStore.Core.deps.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\bin\Debug\net9.0\JwStore.Core.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\bin\Debug\net9.0\JwStore.Core.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\refint\JwStore.Core.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\jwstore.core\obj\Debug\net9.0\JwStore.Core.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\JwStore\JwStore.Core\obj\Debug\net9.0\ref\JwStore.Core.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N6i3kvKGeHFUJcKz6587bqcyMZBpRNPGwgowCjsQTuU=",
+  "Source": "JwStore.Api",
+  "BasePath": "_content/JwStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

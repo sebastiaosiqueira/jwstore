@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("8b5e243e-2c4f-4a9f-945b-f2d32f397a85")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("JwStore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8309134f198626bb2153cc778d4c57eee1676fb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("JwStore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JwStore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

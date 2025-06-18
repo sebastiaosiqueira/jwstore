@@ -4,13 +4,19 @@ using JwStore.Core.Contexts.AccountContext.SharedContext.Entities;
 using JwStore.Core.Contexts.AccountContext.ValueObjects;
 
 
-namespace JwStore.Core.AccountContext.Entities
+namespace JwStore.Core.Contexts.AccountContext.Entities
 {
     public class User : Entity
     {
         protected User()
         {
 
+        }
+        public User(string name, Email email, Password password)
+        {
+            Name = name;
+            Email = email;
+            Passowrd = password;
         }
         public User(string email, string? password = null)
         {

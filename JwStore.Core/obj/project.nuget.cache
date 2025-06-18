@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6n8H+10UEeI=",
+  "dgSpecHash": "jWpQyybDagI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\JwStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\JwStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

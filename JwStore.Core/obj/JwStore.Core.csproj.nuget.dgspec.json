@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\JwStore.Core.csproj": {}
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\JwStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\JwStore.Core.csproj": {
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\JwStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\JwStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\JwStore.Core.csproj",
         "projectName": "JwStore.Core",
-        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\JwStore.Core.csproj",
+        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\JwStore.Core.csproj",
         "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\jwstore.core\\obj\\",
+        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\JwStore\\JwStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

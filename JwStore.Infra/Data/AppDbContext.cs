@@ -1,4 +1,4 @@
-using JwStore.Core.AccountContext.Entities;
+
 using JwStore.Core.Contexts.AccountContext.Entities;
 using JwStore.Infra.Contexts.AccountContext.Mappings;
 using Microsoft.EntityFrameworkCore;
